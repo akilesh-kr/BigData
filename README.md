@@ -2,7 +2,7 @@
 
 In this project, you will develop an Oozie workflow to process and analyze a large volume of flight
 data.
-• Instructions:
+# Instructions:
 1. Form a project team of two students (including yourself).
 2. Install Hadoop/Oozie on your AWS VMs.
 3. Download the Airline On-time Performance data set (flight data set) from the period of
@@ -13,7 +13,7 @@ schedule;
 b. the 3 airports with the longest and shortest average taxi time per flight (both in and
 out), respectively; and
 c. the most common reason for flight cancellations.
-• Requirements:
+# Requirements:
 1. Your workflow must contain at least three MapReduce jobs that run in fully distributed
 mode.
 2. Run your workflow to analyze the entire data set (total 22 years from 1987 to 2008) at one
@@ -24,7 +24,7 @@ execution time.
 i.e. the first year (1987), the first 2 years (1987-1988), the first 3 years (1987-1989), …, and
 the total 22 years (1987-2008), on the maximum allowed number of VMs, and measure each
 corresponding workflow execution time.
-• Submission (all in a zipped file: YourLastName_YourPartnerLastName.zip):
+# Submission (all in a zipped file: YourLastName_YourPartnerLastName.zip):
 1. A commands.txt text file that lists all the commands you used to run your code and produce
 the required results in fully distributed mode
 2. An output.txt text file that stores the final results from all the runs
