@@ -6,8 +6,7 @@ data.
 1. Form a project team of two students (including yourself).
 2. Install Hadoop/Oozie on your AWS VMs.
 3. Download the Airline On-time Performance data set (flight data set) from the period of
-October 1987 to April 2008 on the Statistical Computing website: http://statcomputing.
-org/dataexpo/2009/the-data.html
+October 1987 to April 2008 on the Statistical Computing website: http://statcomputing.org/dataexpo/2009/the-data.html
 4. Design, implement, and run an Oozie workflow to find out
 a. the 3 airlines with the highest and lowest probability, respectively, for being on
 schedule;
