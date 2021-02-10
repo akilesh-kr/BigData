@@ -8,9 +8,7 @@ data.
 3. Download the Airline On-time Performance data set (flight data set) from the period of
 October 1987 to April 2008 on the Statistical Computing website: http://statcomputing.org/dataexpo/2009/the-data.html
 4. Design, implement, and run an Oozie workflow to find out
-
 a. the 3 airlines with the highest and lowest probability, respectively, for being on schedule;
-
 b. the 3 airports with the longest and shortest average taxi time per flight (both in and
 out), respectively; and
 c. the most common reason for flight cancellations.
@@ -25,7 +23,7 @@ execution time.
 i.e. the first year (1987), the first 2 years (1987-1988), the first 3 years (1987-1989), …, and
 the total 22 years (1987-2008), on the maximum allowed number of VMs, and measure each
 corresponding workflow execution time.
-# Submission (all in a zipped file: YourLastName_YourPartnerLastName.zip):
+# Submission:
 1. A commands.txt text file that lists all the commands you used to run your code and produce
 the required results in fully distributed mode
 2. An output.txt text file that stores the final results from all the runs
